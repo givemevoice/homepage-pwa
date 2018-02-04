@@ -1,0 +1,13 @@
+{
+  "name": "givemevoice",
+  "version": "1.0.0",
+  "description": "This is the homepage PWA for givemevoice.org.uk / .eu",
+  "main": "index.js",
+  "repository": "https://github.com/givemevoice/homepage-pwa",
+  "author": "Attila Vago <attilavago85@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
